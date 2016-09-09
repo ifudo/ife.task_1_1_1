@@ -98,7 +98,7 @@
           <label for="pass1">请输入密码：</label>
           <input type="password" name="pass" id="pass1"/>
           <label for="pass2">请重复输入密码：</label>
-          <input type="password" name="pass"/>
+          <input type="password" name="pass" id="pass2"/>
           <p>密码请为6-16位英文数字</p>
       </form>
       <form>
